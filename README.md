@@ -17,4 +17,4 @@ b.文件列表及其相关说明：
       4、test_1 单元测试  
       5、wc(拓展).exe   执行文件  
 c.例程运行及其相关结果：  
-！[image](https://github.com/guoxy68/hello-github/blob/main/shi%20li.jpg)
+！[image]()
