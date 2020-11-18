@@ -16,4 +16,5 @@ b.文件列表及其相关说明：
       3、wc(拓展).py 项目完成扩展功能  
       4、test_1 单元测试  
       5、wc(拓展).exe   执行文件  
-c.例程运行及其相关结果：
+c.例程运行及其相关结果：  
+！[image](https://github.com/guoxy68/hello-github/blob/main/%E7%A4%BA%E4%BE%8B.jpg)
